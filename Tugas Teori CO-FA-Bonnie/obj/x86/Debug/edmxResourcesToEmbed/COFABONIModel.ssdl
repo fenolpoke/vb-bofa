@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="COFABONIDatabaseModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="COFABONIDatabaseModelStoreContainer">
+    <EntitySet Name="DetailTransaction" EntityType="COFABONIDatabaseModel.Store.DetailTransaction" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="HeaderTransaction" EntityType="COFABONIDatabaseModel.Store.HeaderTransaction" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="MsUser" EntityType="COFABONIDatabaseModel.Store.MsUser" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Product" EntityType="COFABONIDatabaseModel.Store.Product" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_DetailTransaction_HeaderTransaction" Association="COFABONIDatabaseModel.Store.FK_DetailTransaction_HeaderTransaction">
+      <End Role="HeaderTransaction" EntitySet="HeaderTransaction" />
+      <End Role="DetailTransaction" EntitySet="DetailTransaction" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DetailTransaction_Product" Association="COFABONIDatabaseModel.Store.FK_DetailTransaction_Product">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="DetailTransaction" EntitySet="DetailTransaction" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HeaderTransaction_MsUser" Association="COFABONIDatabaseModel.Store.FK_HeaderTransaction_MsUser">
+      <End Role="MsUser" EntitySet="MsUser" />
+      <End Role="HeaderTransaction" EntitySet="HeaderTransaction" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="DetailTransaction">
+    <Key>
+      <PropertyRef Name="TransactionId" />
+      <PropertyRef Name="ProductId" />
+    </Key>
+    <Property Name="TransactionId" Type="tinyint" Nullable="false" />
+    <Property Name="ProductId" Type="tinyint" Nullable="false" />
+    <Property Name="Quantity" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="HeaderTransaction">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="tinyint" Nullable="false" />
+    <Property Name="UserId" Type="tinyint" Nullable="false" />
+    <Property Name="Date" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MsUser">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="tinyint" Nullable="false" />
+    <Property Name="Username" Type="nchar" Nullable="false" MaxLength="25" />
+    <Property Name="Password" Type="nchar" Nullable="false" MaxLength="25" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="tinyint" Nullable="false" />
+    <Property Name="Name" Type="nchar" Nullable="false" MaxLength="100" />
+    <Property Name="Stock" Type="int" Nullable="false" />
+    <Property Name="Price" Type="smallmoney" Nullable="false" />
+    <Property Name="Picture" Type="image" />
+  </EntityType>
+  <Association Name="FK_DetailTransaction_HeaderTransaction">
+    <End Role="HeaderTransaction" Type="COFABONIDatabaseModel.Store.HeaderTransaction" Multiplicity="1" />
+    <End Role="DetailTransaction" Type="COFABONIDatabaseModel.Store.DetailTransaction" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HeaderTransaction">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="DetailTransaction">
+        <PropertyRef Name="TransactionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DetailTransaction_Product">
+    <End Role="Product" Type="COFABONIDatabaseModel.Store.Product" Multiplicity="1" />
+    <End Role="DetailTransaction" Type="COFABONIDatabaseModel.Store.DetailTransaction" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="DetailTransaction">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HeaderTransaction_MsUser">
+    <End Role="MsUser" Type="COFABONIDatabaseModel.Store.MsUser" Multiplicity="1" />
+    <End Role="HeaderTransaction" Type="COFABONIDatabaseModel.Store.HeaderTransaction" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MsUser">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="HeaderTransaction">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

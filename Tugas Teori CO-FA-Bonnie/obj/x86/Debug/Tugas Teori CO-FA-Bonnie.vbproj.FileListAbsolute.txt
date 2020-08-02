@@ -1,0 +1,190 @@
+C:\Users\Charlesutanto\AppData\Local\Temporary Projects\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Homepage.resources
+C:\Users\Charlesutanto\AppData\Local\Temporary Projects\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Resources.resources
+C:\Users\Charlesutanto\AppData\Local\Temporary Projects\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.vbproj.GenerateResource.Cache
+C:\Users\Charlesutanto\AppData\Local\Temporary Projects\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.exe
+C:\Users\Charlesutanto\AppData\Local\Temporary Projects\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.pdb
+C:\Users\Charlesutanto\AppData\Local\Temporary Projects\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.xml
+C:\Users\Charlesutanto\AppData\Local\Temporary Projects\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.exe
+C:\Users\Charlesutanto\AppData\Local\Temporary Projects\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.xml
+C:\Users\Charlesutanto\AppData\Local\Temporary Projects\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.pdb
+C:\Users\Charlesutanto\Desktop\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.exe
+C:\Users\Charlesutanto\Desktop\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.xml
+C:\Users\Charlesutanto\Desktop\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.pdb
+C:\Users\Charlesutanto\Desktop\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.exe
+C:\Users\Charlesutanto\Desktop\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.pdb
+C:\Users\Charlesutanto\Desktop\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.xml
+C:\Users\Charlesutanto\Desktop\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Homepage.resources
+C:\Users\Charlesutanto\Desktop\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Resources.resources
+C:\Users\Charlesutanto\Desktop\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.vbproj.GenerateResource.Cache
+C:\Users\Charlesutanto\Desktop\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.LoginForm.resources
+C:\Users\Charlesutanto\Desktop\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.ProductForm.resources
+C:\Users\FA\Downloads\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.exe
+C:\Users\FA\Downloads\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.xml
+C:\Users\FA\Downloads\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.pdb
+C:\Users\FA\Downloads\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.exe
+C:\Users\FA\Downloads\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.pdb
+C:\Users\FA\Downloads\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.xml
+C:\Users\FA\Downloads\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Homepage.resources
+C:\Users\FA\Downloads\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.LoginForm.resources
+C:\Users\FA\Downloads\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Resources.resources
+C:\Users\FA\Downloads\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.ProductForm.resources
+C:\Users\FA\Downloads\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.vbproj.GenerateResource.Cache
+C:\Users\FA\Downloads\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\bin\Debug\COFABONIDatabase.mdf
+C:\Users\FA\Downloads\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\bin\Debug\COFABONIDatabase_log.ldf
+C:\Users\FA\Downloads\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.exe.config
+C:\Users\FA\Downloads\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.GuestProductForm.resources
+C:\Users\FA\Downloads\Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.UserProductForm.resources
+C:\Users\Charlesutanto\Desktop\updated Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.exe.config
+C:\Users\Charlesutanto\Desktop\updated Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.exe
+C:\Users\Charlesutanto\Desktop\updated Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.xml
+C:\Users\Charlesutanto\Desktop\updated Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.pdb
+C:\Users\Charlesutanto\Desktop\updated Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\bin\Debug\COFABONIDatabase.mdf
+C:\Users\Charlesutanto\Desktop\updated Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\bin\Debug\COFABONIDatabase_log.ldf
+C:\Users\Charlesutanto\Desktop\updated Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.exe
+C:\Users\Charlesutanto\Desktop\updated Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.pdb
+C:\Users\Charlesutanto\Desktop\updated Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.xml
+C:\Users\Charlesutanto\Desktop\updated Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.GuestProductForm.resources
+C:\Users\Charlesutanto\Desktop\updated Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Homepage.resources
+C:\Users\Charlesutanto\Desktop\updated Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.LoginForm.resources
+C:\Users\Charlesutanto\Desktop\updated Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Resources.resources
+C:\Users\Charlesutanto\Desktop\updated Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.ProductForm.resources
+C:\Users\Charlesutanto\Desktop\updated Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.UserProductForm.resources
+C:\Users\Charlesutanto\Desktop\updated Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.vbproj.GenerateResource.Cache
+C:\Users\Charlesutanto\Desktop\updated Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\bin\Debug\Interop.WMPLib.dll
+C:\Users\Charlesutanto\Desktop\updated Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Charlesutanto\Desktop\updated Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Charlesutanto\Desktop\updated Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Charlesutanto\Desktop\updated Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.vbproj.ResolveComReference.cache
+C:\Users\Charlesutanto\Desktop\updated Tugas Teori CO-FA-Bonnie\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Ads.resources
+C:\Users\FA\Downloads\20161228 - Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.exe.config
+C:\Users\FA\Downloads\20161228 - Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\FA\Downloads\20161228 - Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\FA\Downloads\20161228 - Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.vbproj.ResolveComReference.cache
+C:\Users\FA\Downloads\20161228 - Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.exe
+C:\Users\FA\Downloads\20161228 - Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.xml
+C:\Users\FA\Downloads\20161228 - Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.pdb
+C:\Users\FA\Downloads\20161228 - Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\COFABONIDatabase.mdf
+C:\Users\FA\Downloads\20161228 - Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\COFABONIDatabase_log.ldf
+C:\Users\FA\Downloads\20161228 - Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.exe
+C:\Users\FA\Downloads\20161228 - Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.pdb
+C:\Users\FA\Downloads\20161228 - Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.xml
+C:\Users\FA\Downloads\20161228 - Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Interop.WMPLib.dll
+C:\Users\FA\Downloads\20161228 - Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\FA\Downloads\20161228 - Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Ads.resources
+C:\Users\FA\Downloads\20161228 - Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.GuestProductForm.resources
+C:\Users\FA\Downloads\20161228 - Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Homepage.resources
+C:\Users\FA\Downloads\20161228 - Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.LoginForm.resources
+C:\Users\FA\Downloads\20161228 - Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Resources.resources
+C:\Users\FA\Downloads\20161228 - Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.ProductForm.resources
+C:\Users\FA\Downloads\20161228 - Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.UserProductForm.resources
+C:\Users\FA\Downloads\20161228 - Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.vbproj.GenerateResource.Cache
+C:\Users\Charlesutanto\Desktop\!updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.exe.config
+C:\Users\Charlesutanto\Desktop\!updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Charlesutanto\Desktop\!updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Charlesutanto\Desktop\!updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.vbproj.ResolveComReference.cache
+C:\Users\Charlesutanto\Desktop\!updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.exe
+C:\Users\Charlesutanto\Desktop\!updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.xml
+C:\Users\Charlesutanto\Desktop\!updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.pdb
+C:\Users\Charlesutanto\Desktop\!updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\COFABONIDatabase.mdf
+C:\Users\Charlesutanto\Desktop\!updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\COFABONIDatabase_log.ldf
+C:\Users\Charlesutanto\Desktop\!updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.exe
+C:\Users\Charlesutanto\Desktop\!updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.pdb
+C:\Users\Charlesutanto\Desktop\!updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.xml
+C:\Users\Charlesutanto\Desktop\!updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Interop.WMPLib.dll
+C:\Users\Charlesutanto\Desktop\!updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Charlesutanto\Desktop\!updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Ads.resources
+C:\Users\Charlesutanto\Desktop\!updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.GuestProductForm.resources
+C:\Users\Charlesutanto\Desktop\!updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Homepage.resources
+C:\Users\Charlesutanto\Desktop\!updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.LoginForm.resources
+C:\Users\Charlesutanto\Desktop\!updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Resources.resources
+C:\Users\Charlesutanto\Desktop\!updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.ProductForm.resources
+C:\Users\Charlesutanto\Desktop\!updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.UserProductForm.resources
+C:\Users\Charlesutanto\Desktop\!updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.vbproj.GenerateResource.Cache
+C:\Users\AB\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.exe.config
+C:\Users\AB\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\AB\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\AB\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.vbproj.ResolveComReference.cache
+C:\Users\AB\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.exe
+C:\Users\AB\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.xml
+C:\Users\AB\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.pdb
+C:\Users\AB\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\COFABONIDatabase.mdf
+C:\Users\AB\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\COFABONIDatabase_log.ldf
+C:\Users\AB\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.exe
+C:\Users\AB\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.pdb
+C:\Users\AB\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.xml
+C:\Users\AB\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Interop.WMPLib.dll
+C:\Users\AB\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\AB\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Ads.resources
+C:\Users\AB\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.GuestProductForm.resources
+C:\Users\AB\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Homepage.resources
+C:\Users\AB\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.LoginForm.resources
+C:\Users\AB\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Resources.resources
+C:\Users\AB\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.ProductForm.resources
+C:\Users\AB\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.UserProductForm.resources
+C:\Users\AB\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.vbproj.GenerateResource.Cache
+C:\Users\charlesutanto\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.exe.config
+C:\Users\charlesutanto\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\charlesutanto\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\charlesutanto\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.vbproj.ResolveComReference.cache
+C:\Users\charlesutanto\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.exe
+C:\Users\charlesutanto\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.xml
+C:\Users\charlesutanto\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.pdb
+C:\Users\charlesutanto\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\COFABONIDatabase.mdf
+C:\Users\charlesutanto\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\COFABONIDatabase_log.ldf
+C:\Users\charlesutanto\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.exe
+C:\Users\charlesutanto\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.pdb
+C:\Users\charlesutanto\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.xml
+C:\Users\charlesutanto\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Interop.WMPLib.dll
+C:\Users\charlesutanto\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\charlesutanto\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Ads.resources
+C:\Users\charlesutanto\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.GuestProductForm.resources
+C:\Users\charlesutanto\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Homepage.resources
+C:\Users\charlesutanto\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.LoginForm.resources
+C:\Users\charlesutanto\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Resources.resources
+C:\Users\charlesutanto\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.ProductForm.resources
+C:\Users\charlesutanto\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.UserProductForm.resources
+C:\Users\charlesutanto\Desktop\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.vbproj.GenerateResource.Cache
+F:\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.exe.config
+F:\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Interop.WMPLib.dll
+F:\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.vbproj.ResolveComReference.cache
+F:\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.exe
+F:\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.xml
+F:\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.pdb
+F:\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\COFABONIDatabase.mdf
+F:\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\COFABONIDatabase_log.ldf
+F:\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.exe
+F:\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.pdb
+F:\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.xml
+F:\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Interop.WMPLib.dll
+F:\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\AxInterop.WMPLib.dll
+F:\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Ads.resources
+F:\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.GuestProductForm.resources
+F:\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Homepage.resources
+F:\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.LoginForm.resources
+F:\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Resources.resources
+F:\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.ProductForm.resources
+F:\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.UserProductForm.resources
+F:\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.vbproj.GenerateResource.Cache
+C:\Users\FA\Downloads\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.exe.config
+C:\Users\FA\Downloads\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\FA\Downloads\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\FA\Downloads\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.vbproj.ResolveComReference.cache
+C:\Users\FA\Downloads\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.exe
+C:\Users\FA\Downloads\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.xml
+C:\Users\FA\Downloads\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.pdb
+C:\Users\FA\Downloads\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\COFABONIDatabase.mdf
+C:\Users\FA\Downloads\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\COFABONIDatabase_log.ldf
+C:\Users\FA\Downloads\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.exe
+C:\Users\FA\Downloads\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.pdb
+C:\Users\FA\Downloads\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Tugas Teori CO-FA-Bonnie.xml
+C:\Users\FA\Downloads\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\Interop.WMPLib.dll
+C:\Users\FA\Downloads\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\FA\Downloads\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Ads.resources
+C:\Users\FA\Downloads\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.GuestProductForm.resources
+C:\Users\FA\Downloads\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Homepage.resources
+C:\Users\FA\Downloads\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.LoginForm.resources
+C:\Users\FA\Downloads\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.Resources.resources
+C:\Users\FA\Downloads\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.ProductForm.resources
+C:\Users\FA\Downloads\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas_Teori_CO_FA_Bonnie.UserProductForm.resources
+C:\Users\FA\Downloads\20161229 - updated Tugas Teori CO-FA-Bonnie + Video\Tugas Teori CO-FA-Bonnie\obj\x86\Debug\Tugas Teori CO-FA-Bonnie.vbproj.GenerateResource.Cache

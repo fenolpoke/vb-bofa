@@ -1,0 +1,229 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TugasTeoriCO-FA-Bonnie
+</name>
+</assembly>
+<members>
+<member name="M:Tugas_Teori_CO_FA_Bonnie.COFABONIDatabaseEntities.#ctor">
+	<summary>
+ Initializes a new COFABONIDatabaseEntities object using the connection string found in the 'COFABONIDatabaseEntities' section of the application configuration file.
+ </summary>
+</member><member name="M:Tugas_Teori_CO_FA_Bonnie.COFABONIDatabaseEntities.#ctor(System.String)">
+	<summary>
+ Initialize a new COFABONIDatabaseEntities object.
+ </summary>
+</member><member name="M:Tugas_Teori_CO_FA_Bonnie.COFABONIDatabaseEntities.#ctor(System.Data.EntityClient.EntityConnection)">
+	<summary>
+ Initialize a new COFABONIDatabaseEntities object.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.COFABONIDatabaseEntities.MsUsers">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.COFABONIDatabaseEntities.Products">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.COFABONIDatabaseEntities.DetailTransactions">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.COFABONIDatabaseEntities.HeaderTransactions">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Tugas_Teori_CO_FA_Bonnie.COFABONIDatabaseEntities.AddToMsUsers(Tugas_Teori_CO_FA_Bonnie.MsUser)">
+	<summary>
+ Deprecated Method for adding a new object to the MsUsers EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:Tugas_Teori_CO_FA_Bonnie.COFABONIDatabaseEntities.AddToProducts(Tugas_Teori_CO_FA_Bonnie.Product)">
+	<summary>
+ Deprecated Method for adding a new object to the Products EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:Tugas_Teori_CO_FA_Bonnie.COFABONIDatabaseEntities.AddToDetailTransactions(Tugas_Teori_CO_FA_Bonnie.DetailTransaction)">
+	<summary>
+ Deprecated Method for adding a new object to the DetailTransactions EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:Tugas_Teori_CO_FA_Bonnie.COFABONIDatabaseEntities.AddToHeaderTransactions(Tugas_Teori_CO_FA_Bonnie.HeaderTransaction)">
+	<summary>
+ Deprecated Method for adding a new object to the HeaderTransactions EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="T:Tugas_Teori_CO_FA_Bonnie.COFABONIDatabaseEntities">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Tugas_Teori_CO_FA_Bonnie.DetailTransaction.CreateDetailTransaction(System.Byte,System.Int32,System.Byte)">
+	<summary>
+ Create a new DetailTransaction object.
+ </summary>
+	<param name="productId">Initial value of the ProductId property.</param>
+	<param name="quantity">Initial value of the Quantity property.</param>
+	<param name="transactionId">Initial value of the TransactionId property.</param>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.DetailTransaction.ProductId">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.DetailTransaction.Quantity">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.DetailTransaction.TransactionId">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.DetailTransaction.Product">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.DetailTransaction.ProductReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.DetailTransaction.HeaderTransaction">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.DetailTransaction.HeaderTransactionReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Tugas_Teori_CO_FA_Bonnie.DetailTransaction">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Tugas_Teori_CO_FA_Bonnie.HeaderTransaction.CreateHeaderTransaction(System.Byte,System.Byte,System.DateTime)">
+	<summary>
+ Create a new HeaderTransaction object.
+ </summary>
+	<param name="id">Initial value of the Id property.</param>
+	<param name="userId">Initial value of the UserId property.</param>
+	<param name="date">Initial value of the Date property.</param>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.HeaderTransaction.Id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.HeaderTransaction.UserId">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.HeaderTransaction.Date">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.HeaderTransaction.MsUser">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.HeaderTransaction.MsUserReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.HeaderTransaction.DetailTransactions">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Tugas_Teori_CO_FA_Bonnie.HeaderTransaction">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Tugas_Teori_CO_FA_Bonnie.MsUser.CreateMsUser(System.Byte,System.String,System.String)">
+	<summary>
+ Create a new MsUser object.
+ </summary>
+	<param name="id">Initial value of the Id property.</param>
+	<param name="username">Initial value of the Username property.</param>
+	<param name="password">Initial value of the Password property.</param>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.MsUser.Id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.MsUser.Username">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.MsUser.Password">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.MsUser.HeaderTransactions">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Tugas_Teori_CO_FA_Bonnie.MsUser">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Tugas_Teori_CO_FA_Bonnie.Product.CreateProduct(System.Byte,System.String,System.Int32,System.Decimal)">
+	<summary>
+ Create a new Product object.
+ </summary>
+	<param name="id">Initial value of the Id property.</param>
+	<param name="name">Initial value of the Name property.</param>
+	<param name="stock">Initial value of the Stock property.</param>
+	<param name="price">Initial value of the Price property.</param>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.Product.Id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.Product.Name">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.Product.Stock">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.Product.Price">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.Product.Picture">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.Product.DetailTransactions">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Tugas_Teori_CO_FA_Bonnie.Product">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.My.Resources.Resources._1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.My.Resources.Resources._2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.My.Resources.Resources._3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.My.Resources.Resources._4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tugas_Teori_CO_FA_Bonnie.My.Resources.Resources.Groovy_day_infomercial_music_converted">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="T:Tugas_Teori_CO_FA_Bonnie.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
